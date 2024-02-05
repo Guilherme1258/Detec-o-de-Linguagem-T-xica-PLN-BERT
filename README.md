@@ -1,1 +1,1 @@
-# Detec-o-de-Linguagem-T-xica-PLN-BERT
+# Detecção de linguagem ofensiva PLN_BERT.ipynb
