@@ -17,8 +17,8 @@ Os dados foram inicialmente processados e divididos em conjuntos de treino e tes
 <h2>Modelos e Arquiteturas</h2>
 Foram testados dois modelos principais:<p>
 
-DistilBERT<p>
-BERTimbau-base<p>
+- DistilBERT<p>
+- BERTimbau-base<p>
 
 <h2>Resultados</h2>
 Desempenho dos Modelos:<p>
