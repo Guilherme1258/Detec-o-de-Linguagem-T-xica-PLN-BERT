@@ -15,7 +15,7 @@ Preparação dos Dados<p>
 Os dados foram inicialmente processados e divididos em conjuntos de treino e teste, com 80% dos dados destinados ao treinamento e 20% para o teste. Esse procedimento foi realizado para ambas as bases de dados.
 
 <h2>Modelos e Arquiteturas</h2>
-Foram testados dois modelos principais:
+Foram testados dois modelos principais:<p>
 
 DistilBERT<p>
 BERTimbau-base<p>
